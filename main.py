@@ -12,5 +12,7 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from ui_app import render_app
 
-if __name__ == "__main__":
+def main():
     render_app()
+
+main()
