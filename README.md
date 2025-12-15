@@ -1,5 +1,12 @@
 # 🛡️ AuroSys Enterprise (v9.5)
-### *Next-Gen Cyber-Physical System for Automotive OEMs*
+### Next-Generation Cyber-Physical Decision Intelligence for Automotive OEMs
+AuroSys is a **production-oriented cyber-physical AI system** designed to help automotive OEMs
+move from **reactive diagnostics** to **autonomous, cost-aware decision making**.
+
+Unlike traditional vehicle dashboards that stop at fault detection, AuroSys **reasons across edge
+signals, cloud intelligence, logistics, and finance** to recommend *business-ready actions* —
+recalls, OTA updates, or targeted inspections — **within a 4-second decision loop**.
+
 
 <!-- 
 TIP: Replace this line with a high-quality GIF or Screenshot of your Main Dashboard.
@@ -10,6 +17,12 @@ TIP: Replace this line with a high-quality GIF or Screenshot of your Main Dashbo
 >
 > *Bridging the gap between Edge Telematics and Cloud Intelligence using Agentic AI.*
 
+---
+### ▶️ Live Interactive Demo (No Installation Required)
+
+Explore the AuroSys Command Center as an OEM engineer or fleet operator:
+
+👉 **https://aurosys.streamlit.app/**
 ---
 
 ## 📖 How It Works: "A Day in the Life of a Fault"
